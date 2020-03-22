@@ -41,7 +41,7 @@ Déterminer si chacun des facteurs joue un rôle dans le comportement ondulatoir
 
 ## Mind-Map
 <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
-![alt text](github.com/aya-ikezawa/Garage/blob/master/Mindmap.png "framindmap")
+![alt text](https://github.com/aya-ikezawa/Garage/blob/master/Mindmap.png "framindmap")
 
 
 

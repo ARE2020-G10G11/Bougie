@@ -109,3 +109,22 @@ Pour le mode en phase, le contour de la flamme montre une symétrie spatial et l
 
 ![alt text](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-36754-w/MediaObjects/41598_2018_36754_Fig4_HTML.png)
 A) en phase.  B) en opposition de phase.
+
+## Article 2
+
+Titre : Synchronization in flickering of three-coupled candle flames
+Auteurs :  Keiko Okamoto, Akifumi Kijima, Yoshitaka Umeno, Hiroyuki Shima
+Type : Rapport scientifique
+Synthèse :
+
+Cet article s'agit d'un rapport des synchronisations des mouvements oscillatoires de 3 bougies mises côte à côte. Plus spécifiquement, ils ont placé les trois bougies afin qu'ils forment un triangle équilatéral, dans une boîte cubique pour éviter les effets de l'atmosphère extérieure, et ont observé leur interactions, en faisant varier la distance entre chaque bougie, et répétant l'expérience. 
+
+D'après les expériences, ils ont déterminé 4 types d'interactions:
+ 
+1. Les trois bougies sont en phases
+2. 2 des trois bougies sont en phase, et l'autre est décalé d'une longueur π
+3. Les trois sont chacun décalé de π/3
+4. Absence totale d'oscillation
+
+Comme conclusion, les chercheurs expliquent que les 4 phases sont tous des résultats d'interaction entre les bougies. En effet, la synchronisation des bougies est provoquée par les tourbillons de l'air autour de la surface de la flamme.
+Ils ont aussi remarqué qu'il existait une distance limite maximale et minimale que la synchronisation puisse apparaître. De plus, un facteur aléatoire jouait sur le choix des phases, qui n'était pas le cas avec 2 bougies.

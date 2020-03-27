@@ -62,3 +62,31 @@ Déterminer si chacun des facteurs joue un rôle dans le comportement ondulatoir
 
 http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=GeneralSearch&qid=7&SID=E2cVr4z4TNw5cgPJIZT&page=1&doc=2
 
+## Article 1
+Titre : Frequency and Phase Characteristics of Candle Flame Oscillation
+Auteurs :Ting Chen, Xiao Guo, Ji Jia et Jinghua Xiao
+Type : Rapport scientifique
+Synthèse :
+
+La fréquence des oscillations diminue lorsque le nombre de bougies augmente
+La synchronisation en phase se produit lorsque deux groupes sont placés proches, alors que celle en opposition de phase se produit lorsqu’ils sont plus éloignés.
+La radiation thermique est la cause principale du jumelage des Flames.
+Un groupe de 3 bougies en triangle équilatéral peut se synchroniser en mode en phase, en phase partielle, rotation et mort.
+L’arrangement des bougies a un impact sur l’amplitude et la fréquence des oscillations.
+L’oscillateur le plus faible sera dirigé par le plus fort et fournira une porté de radiation moins importante, menant à une déviation d’une complète position en phase ou en opposition de phase.
+Lorsque la distance est trop grande la différence de phase va continuellement changer.
+Les chercheurs utilisent des bougies de paraffine, dont chacune est similaire ayant un diamètre de 6mm et une longueur de 60mm. Ils font des expériences sur des groupes de 3 bougies reliées avec du scotch.
+Les expériences sont réalisées à l’air libre dans des températures d’intérieur et sans lumière extérieure.
+
+L’influence du nombre de bougies sur un unique oscillateur :
+La flamme d’un oscillateur va vaciller périodiquement si celui-ci est composé de pas moins de 3 bougies.
+Sinon il maintien une combustion stable.
+Une bougie seul ne présente pas d’oscillations, mais reste stable.
+Pour un groupe de 2 bougies, la luminosité de la flamme augmente et montre de petites fluctuation de temps en temps. Pour un groupe de plus de 3 bougies, la flamme montre des oscillations régulières qui présente une amplitude tune fréquence plutôt stable.
+La luminosité de combustion augmente avec le nombre de bougies formant le groupe.
+Les données sont en accord avec la formule : f(alpha)D**-0.49
+Lorsque le nombre de bougies augmente, la flamme gagne en largeur, épaisseur et hauteur.
+
+![alt text](https://www.nature.com/articles/s41598-018-36754-w/figures/1 "Logo Title Text 1")
+
+

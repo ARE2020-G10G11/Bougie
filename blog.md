@@ -4,7 +4,7 @@
 
 ## Semaine 1 (semaine de 16/03)
 
-Nous avons commencé à rédigé le site internet écrivant la page principale, comprenant notre sujet, nos hypothèses et nos recherches bibliographiques. Nous avons également affinés nos recherches documentaires et continué de les analyser.
+Nous avons commencé à rédigé le site internet en écrivant la page principale, comprenant notre sujet, nos hypothèses et nos recherches bibliographiques. Nous avons également affinés nos recherches documentaires et continué de les analyser.
 
 ## Semaine 2 (semaine de 23/03)
 

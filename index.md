@@ -101,7 +101,7 @@ Plus l’arrangement permet aux bougies d’être proche plus la fréquence devi
 
 ![alt text](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-36754-w/MediaObjects/41598_2018_36754_Fig3_HTML.png)
 
-# Synchronisation entre deux oscillateurs de symétries identiques
+### Synchronisation entre deux oscillateurs de symétries identiques
 
 Des oscillateurs à deux flammes présentent une synchronisation en phase lorsque leur distance est comprise entre 20mm et 30mm, ett en opposition de phase lorsqu’elle est en 30mm et 48mm. Lorsque la distance entre les deux oscillateurs augmente, la synchronisation passe de en phase à en opposition de phase aux alentours de 35mm et de en opposition de phase à une phase incohérente à 60mm. 
 La fréquence augmente légèrement lorsque le système a une synchronisation en phase, et baisse lorsqu’il est en opposition de phase.

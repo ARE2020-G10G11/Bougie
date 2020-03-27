@@ -64,7 +64,7 @@ Déterminer si chacun des facteurs joue un rôle dans le comportement ondulatoir
 ## Article 1
 Titre : Frequency and Phase Characteristics of Candle Flame Oscillation
 
-Auteurs :Ting Chen, Xiao Guo, Ji Jia et Jinghua Xiao
+Auteurs : Ting Chen, Xiao Guo, Ji Jia et Jinghua Xiao
 
 Type : Rapport scientifique
 

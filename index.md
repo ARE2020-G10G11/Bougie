@@ -87,6 +87,6 @@ La luminosité de combustion augmente avec le nombre de bougies formant le group
 Les données sont en accord avec la formule : f(alpha)D**-0.49
 Lorsque le nombre de bougies augmente, la flamme gagne en largeur, épaisseur et hauteur.
 
-![alt text](https://www.nature.com/articles/s41598-018-36754-w/figures/1 "Logo Title Text 1")
+![alt text](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-36754-w/MediaObjects/41598_2018_36754_Fig1_HTML.png)
 
 

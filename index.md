@@ -1,7 +1,5 @@
 # COMPORTEMENT ONDULATOIRE DES BOUGIES
 
-<a href="blog.md"> C'est ici ! </a>
-
 ## Problématique
 
 
@@ -43,6 +41,9 @@ Déterminer si chacun des facteurs joue un rôle dans le comportement ondulatoir
 ![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
 
 
+## Blog
+
+<a href="blog.md"> C'est ici ! </a>
 
 
 ## Références Bibliographiques

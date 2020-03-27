@@ -63,8 +63,11 @@ http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=GeneralSear
 
 ## Article 1
 Titre : Frequency and Phase Characteristics of Candle Flame Oscillation
+
 Auteurs :Ting Chen, Xiao Guo, Ji Jia et Jinghua Xiao
+
 Type : Rapport scientifique
+
 Synthèse :
 
 La fréquence des oscillations diminue lorsque le nombre de bougies augmente
@@ -113,8 +116,11 @@ A) en phase.  B) en opposition de phase.
 ## Article 2
 
 Titre : Synchronization in flickering of three-coupled candle flames
+
 Auteurs :  Keiko Okamoto, Akifumi Kijima, Yoshitaka Umeno, Hiroyuki Shima
+
 Type : Rapport scientifique
+
 Synthèse :
 
 Cet article s'agit d'un rapport des synchronisations des mouvements oscillatoires de 3 bougies mises côte à côte. Plus spécifiquement, ils ont placé les trois bougies afin qu'ils forment un triangle équilatéral, dans une boîte cubique pour éviter les effets de l'atmosphère extérieure, et ont observé leur interactions, en faisant varier la distance entre chaque bougie, et répétant l'expérience. 

@@ -59,7 +59,6 @@ Déterminer si chacun des facteurs joue un rôle dans le comportement ondulatoir
 
 [IIT Madras: candle flame oscillators shine light on combustor stability](https://www.thehindu.com/sci-tech/science/iit-madras-candle-flame-oscillators-shine-light-on-combustor-stability/article30771294.ece)
 
-http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=GeneralSearch&qid=7&SID=E2cVr4z4TNw5cgPJIZT&page=1&doc=2
 
 ## Article 1
 Titre : Frequency and Phase Characteristics of Candle Flame Oscillation

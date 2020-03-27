@@ -1,6 +1,6 @@
 # COMPORTEMENT ONDULATOIRE DES BOUGIES
 
-<a href="blog.html"> C'est ici ! </a>
+<a href="blog.md"> C'est ici ! </a>
 
 ## Problématique
 

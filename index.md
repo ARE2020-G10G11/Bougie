@@ -43,7 +43,7 @@ Déterminer si chacun des facteurs joue un rôle dans le comportement ondulatoir
 
 ## Blog
 
-<a href="blog.md"> C'est ici ! </a>
+<a href="blog.html"> C'est ici ! </a>
 
 
 ## Références Bibliographiques

@@ -113,6 +113,15 @@ Pour le mode en phase, le contour de la flamme montre une symétrie spatial et l
 ![alt text](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-36754-w/MediaObjects/41598_2018_36754_Fig4_HTML.png)
 A) en phase.  B) en opposition de phase.
 
+Système de trois bougies positionnées en triangle équilatéral :
+Lorsque la distance est assez petite chaque bougie commence à osciller avec une synchronisation en-phase.
+
+Plus la distance est petite plus la température augmente entre les flammes ainsi que la vélocité du vortex menant à une plus grande efficacité de jumelage.
+
+Conclusions :
+Quand trois bougies ou plus sont reliées étroitement la flamme alors créée oscille. Lorsque le nombre de bougies augmente, la fréquence des oscillations décroit linéairement, mais la température augmente.
+Dans le cas du jumelage de deux oscillateurs similaires, la synchronisation peut mener à des oscillations en phase, en opposition de phase ou à une incohérence des oscillations en fonction de leur écart.
+
 ## Article 2
 
 Titre : Synchronization in flickering of three-coupled candle flames

@@ -148,6 +148,61 @@ D'après les expériences, ils ont déterminé 4 types d'interactions:
 Comme conclusion, les chercheurs expliquent que les 4 phases sont tous des résultats d'interaction entre les bougies. En effet, la synchronisation des bougies est provoquée par les tourbillons de l'air autour de la surface de la flamme.
 Ils ont aussi remarqué qu'il existait une distance limite maximale et minimale que la synchronisation puisse apparaître. De plus, un facteur aléatoire jouait sur le choix des phases, qui n'était pas le cas avec 2 bougies.
 
+## Article 7
+
+Titre : Role of buoyancy-driven vortices in inducing different modes of coupled behaviour in candle-flame oscillators
+
+Auteurs : Suraj Dange, Samadhan A. Pawar, Krishna Manoj, R. I. Sujith
+
+Type : Rapport scientifique
+
+Synthèse : 
+
+Cette article consiste à analyser le mécanisme physique de la synchronisation d’oscillation de deux bougies.
+Comme protocole, les chercheurs ont d’abord choisi à utiliser 4 bougies groupé pour que les flammes fusionnent et réalisent des oscillations de cycle limite (une trajectoire fermée tels que, quand le temps tend vers l’infini, il existe au moins une autre trajectoire qui y converge en spirale). Généralement, les flammes répète le cycle où ils commencent par la hauteur minimale, grandissent, atteint la hauteur maximale, détache le tip de la flamme comme un “puff”, et revient à sa hauteur minimale.
+Ils ont placé deux de ces oscillatoire côte à côte avec des distances variées, et ont observé les phases de la synchronisation, le mouvement de l’air autour de la flamme, et la fréquence de l’oscillation. 
+Notamment, ils se sont remarqués aux mouvement des couches de cisaillement à l’intérieur des deux oscillateurs, et à l’extérieur. Cette couche est créée par la différence de la vélocité entre l’air échauffé et l’air stable ambiant. Lorsque ces deux fluides de différentes vélocités sont mises adjacent, une couche d’air instable est née à leur surface de contact. En suite, dans cette couche, des mouvements spirales sont nés, et au final, forment des tourbillons toroïdal autour de la surface de la flamme. Après, les tourbillons sont relâchés dans l’atmosphère. 
+
+![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f2.jpg)
+
+Par conséquent, ils ont identifié 4 types de phases distinctes avec des mouvements de l’air particuliers:
+
+1. Synchronisation en phase
+
+Dans cette phase, les oscillations des deux oscillateurs sont identiques, avec une différence de phase de 0 degrés. On peut observer cette phase lorsque l’on a une petite distance entre les bougies, de 18.08 mm ~ 24 mm. On remarque que les flammes se déforment horizontalement vers l’intérieur quand elles se développent de la hauteur minimale à la hauteur maximale.
+On observe que les couches de cisaillement à l’intérieur des flammes sont fusionnées. À l’extérieur, les couches de deux côtés sont synchronisées et symétrique. Les tourbillons à l’extérieur se déplace vers le haut en grandissant, ainsi allonge la surface de la flamme. À la hauteur maximale, les tourbillons à l’extérieur sont suffisamment grands qu’ils se touchent, et créer le puff.
+De plus, par rapport à une oscillateur individuelle, la fréquence est baissée et la longueur verticales des tourbillons est élevée. Pour des distances petites comme dans cette phases, les courants d’air sont fusionnées donc les tourbillons sont allongées et la fréquence baisse.
+
+![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f3.jpg)
+
+2. Amplitude morte
+
+On appelle la phase d’amplitude morte où les flammes n’oscillent plus. Cette phase apparaît entre les distances 24 mm ~ 32 mm. Les flammes ont une forme particulière, mince et allongée, avec un grand espace entre les bords intérieurs des flammes.
+Les couches de cisaillement à l’intérieurs ne sont plus fusionnées mais sont jouxtées. Les gradients vitesses ne sont pas assez importants, donc les tourbillons ne se forment pas, et non plus dans les couches de cisaillement à l’extérieur. Cela explique pourquoi les oscillations ont cessé.
+
+![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f4.jpg)
+
+3. Anti-phase synchronisation
+
+L’anti-phase synchronisation est la phase où les oscillateurs oscillent d’une façon synchronisées, mais avec une différence de phase de 180 degrés. Elles apparaît le plus souvent entre les distances de 32 mm ~ 52.96 mm. On remarque qu'ici, les bords intérieures des flammes se déforment périodiquement.
+Avec ses distances, il existe assez d’espace pour former des tourbillons entre les oscillateurs mais pas suffisant pour en former plusieurs. Ainsi, dans les couches de cisaillement à l’intérieur, les tourbillons se forment mais en dessous de l’un à l’autre. Par conséquent, les flammes sont allongées et contractées alternativement.
+Contrairement à la phase synchronisation en phase, ici, la fréquence est élevée et la longueur verticale des tourbillons ont diminué. Avec des tourbillons plus petits, ils sont relâchés plus rapidement dans l’air, et ainsi la fréquence est élevée.
+
+![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f5.jpg)
+
+
+4. Desynchronization
+
+Finalement, dans cette dernière phase, la synchronisation ne s’effectue pas. Les oscillations ne se ressemblent pas, la hauteur maximale de chaque flamme est inconsistante et la différence entre les phases est aussi instable. On entre dans cette phase lorsque la distance entre les deux oscillateurs est supérieure à 52.96 mm.
+Maintenant, étant donné qu’il y a assez d’espaces entre les oscillateurs pour former plusieurs tourbillons simultanément, les couches de cisaillements se forment individuellement sans influences de l’autre.
+On observe que la fréquence baisse par rapport à la phase anti-phase, et obtient une valeur similaire à celui d’une oscillateur isolée. 
+
+![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f6.jpg)
+
+
+À la fin, les chercheurs concluent que les différents phases de synchronisations entre les deux oscillateurs peuvent être bien expliqués par les mouvements des tourbillons qui l’entourent. Ces analyses peuvent être aussi appliquées à des systèmes combustions plus pratiques, comme des cuisinières à la maison, des turbines au gaz, ou des moteur de fusée.
+
+
 ## Artcicle 8
 
 Titre : Experimental evidence of amplitude death and phase-flip bifurcation between in-phase and anti-phase synchronization

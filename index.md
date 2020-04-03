@@ -148,7 +148,7 @@ D'après les expériences, ils ont déterminé 4 types d'interactions:
 Comme conclusion, les chercheurs expliquent que les 4 phases sont tous des résultats d'interaction entre les bougies. En effet, la synchronisation des bougies est provoquée par les tourbillons de l'air autour de la surface de la flamme.
 Ils ont aussi remarqué qu'il existait une distance limite maximale et minimale que la synchronisation puisse apparaître. De plus, un facteur aléatoire jouait sur le choix des phases, qui n'était pas le cas avec 2 bougies.
 
-## Artcicle X
+## Artcicle 8
 
 Titre : Experimental evidence of amplitude death and phase-flip bifurcation between in-phase and anti-phase synchronization
 
@@ -175,7 +175,8 @@ Pour calculer la phase instantanée d’un signal on utilise l’approche du sig
 Le signal analytique (ζ(t)) ainsi obtenu va avoir le signal original (𝐼(𝑡)) comme sa partie réelle et son Hilbert transform correspondant (𝐼𝐻(𝑡)) comme sa partie imaginaire 𝜁(𝑡)=𝐼(𝑡)+𝑖𝐼𝐻(𝑡) 
 avec :
 
-![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/image.png)
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/équation%201.png)
+
 On a donc le signal analytique obtenu pouvant être écrit sous la forme :
 
 𝜁(𝑡)=𝐴(𝑡)𝑒𝑖𝜑(𝑡) 
@@ -183,16 +184,16 @@ On a donc le signal analytique obtenu pouvant être écrit sous la forme :
 Avec A(t) l’amplitude instantanée et 𝜑(𝑡) la phase instantanée.
 La phase relative entre deux signal est calculé par la différence des phases instantanés de ces signaux :
 
-![alt text](https://github.com/aya-ikezawa/Garage/blob/master/équation%202.png)
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/équation%202.png)
 
 La synchronisation des oscillations restreint la variation de la phase relative à rester lié. On observe donc des fluctuations autour d’une valeur constante de la différence de phase.
 Lorsque les oscillations se désynchronisent, la différence de phase ne reste plus liée, on appelle cela “phase drifting”.
 De plus on a :
 
-![alt text](https://github.com/aya-ikezawa/Garage/blob/master/équation%203.png)
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/équation%203.png)
 
 Avec N le nombre de points d'information du signal.
 
 Enfin, pour calculer l’amplitude de corrélation entre deux signal, nous mesurons le coefficient de corrélation de formule :
 
-![alt text](https://github.com/aya-ikezawa/Garage/blob/master/équation%204.png)
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/équation%204.png)

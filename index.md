@@ -48,17 +48,21 @@ Déterminer si chacun des facteurs joue un rôle dans le comportement ondulatoir
 
 ## Références Bibliographiques
 
-[Frequency and Phase Characteristics of Candle Flame Oscillation](https://rdcu.be/b3a4x) 
+1. [Frequency and Phase Characteristics of Candle Flame Oscillation](https://rdcu.be/b3a4x) 
 
-[Synchronization in flickering of three-coupled candle flames](https://rdcu.be/b3a4u)
+2. [Synchronization in flickering of three-coupled candle flames](https://rdcu.be/b3a4u)
 
-[Oscillation and Synchronization in the Combustion of Candles](https://pubs.acs.org/doi/pdf/10.1021/jp901487e)　
+3. [Oscillation and Synchronization in the Combustion of Candles](https://pubs.acs.org/doi/pdf/10.1021/jp901487e)　
 
-[Resources vidéos des expériences](https://www.youtube.com/channel/UCVWv9AtavNy-nvex0d6Ohhw)
+4. [Resources vidéos des expériences](https://www.youtube.com/channel/UCVWv9AtavNy-nvex0d6Ohhw)
 
-[Oscillations of a candle burning at both ends](https://aapt.scitation.org/doi/abs/10.1119/1.3192769?journalCode=ajp)
+5. [Oscillations of a candle burning at both ends](https://aapt.scitation.org/doi/abs/10.1119/1.3192769?journalCode=ajp)
 
-[IIT Madras: candle flame oscillators shine light on combustor stability](https://www.thehindu.com/sci-tech/science/iit-madras-candle-flame-oscillators-shine-light-on-combustor-stability/article30771294.ece)
+6. [IIT Madras: candle flame oscillators shine light on combustor stability](https://www.thehindu.com/sci-tech/science/iit-madras-candle-flame-oscillators-shine-light-on-combustor-stability/article30771294.ece)
+
+7. [Role of buoyancy-driven vortices in inducing different modes of coupled behaviour in candle-flame oscillators](https://aip.scitation.org/doi/full/10.1063/1.5078674)
+
+8. [Experimental Evidence of Amplitude Death and Phase-Flip Bifurcation between In-Phase and Anti-Phase Synchronization](https://www.nature.com/articles/s41598-018-30026-3)
 
 
 ## Article 1

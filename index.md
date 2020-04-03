@@ -171,7 +171,7 @@ Pour calculer la phase instantanée d’un signal on utilise l’approche du sig
 Le signal analytique (ζ(t)) ainsi obtenu va avoir le signal original (𝐼(𝑡)) comme sa partie réelle et son Hilbert transform correspondant (𝐼𝐻(𝑡)) comme sa partie imaginaire 𝜁(𝑡)=𝐼(𝑡)+𝑖𝐼𝐻(𝑡) 
 avec :
 
-![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
+![alt text](https://github.com/aya-ikezawa/Garage/blob/master/image.png)
 
 On a donc le signal analytique obtenu pouvant être écrit sous la forme :
 
@@ -180,16 +180,16 @@ On a donc le signal analytique obtenu pouvant être écrit sous la forme :
 Avec A(t) l’amplitude instantanée et 𝜑(𝑡) la phase instantanée.
 La phase relative entre deux signal est calculé par la différence des phases instantanés de ces signaux :
 
-![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
+![alt text](https://github.com/aya-ikezawa/Garage/blob/master/équation%202.png)
 
 La synchronisation des oscillations restreint la variation de la phase relative à rester lié. On observe donc des fluctuations autour d’une valeur constante de la différence de phase.
 Lorsque les oscillations se désynchronisent, la différence de phase ne reste plus liée, on appelle cela “phase drifting”.
 De plus on a :
 
-![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
+![alt text](https://github.com/aya-ikezawa/Garage/blob/master/équation%203.png)
 
 Avec N le nombre de points d'information du signal.
 
 Enfin, pour calculer l’amplitude de corrélation entre deux signal, nous mesurons le coefficient de corrélation de formule :
 
-![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
+![alt text](https://github.com/aya-ikezawa/Garage/blob/master/équation%204.png)

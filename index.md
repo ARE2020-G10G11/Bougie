@@ -167,7 +167,7 @@ Notamment, ils se sont remarqués aux mouvement des couches de cisaillement à l
 
 Par conséquent, ils ont identifié 4 types de phases distinctes avec des mouvements de l’air particuliers:
 
-1. Synchronisation en phase
+1 Synchronisation en phase
 
 Dans cette phase, les oscillations des deux oscillateurs sont identiques, avec une différence de phase de 0 degrés. On peut observer cette phase lorsque l’on a une petite distance entre les bougies, de 18.08 mm ~ 24 mm. On remarque que les flammes se déforment horizontalement vers l’intérieur quand elles se développent de la hauteur minimale à la hauteur maximale.
 On observe que les couches de cisaillement à l’intérieur des flammes sont fusionnées. À l’extérieur, les couches de deux côtés sont synchronisées et symétrique. Les tourbillons à l’extérieur se déplace vers le haut en grandissant, ainsi allonge la surface de la flamme. À la hauteur maximale, les tourbillons à l’extérieur sont suffisamment grands qu’ils se touchent, et créer le puff.
@@ -175,27 +175,27 @@ De plus, par rapport à une oscillateur individuelle, la fréquence est baissée
 
 ![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f3.jpg)
 
-2. Amplitude morte
+2 Amplitude morte
 
 On appelle la phase d’amplitude morte où les flammes n’oscillent plus. Cette phase apparaît entre les distances 24 mm ~ 32 mm. Les flammes ont une forme particulière, mince et allongée, avec un grand espace entre les bords intérieurs des flammes.
 Les couches de cisaillement à l’intérieurs ne sont plus fusionnées mais sont jouxtées. Les gradients vitesses ne sont pas assez importants, donc les tourbillons ne se forment pas, et non plus dans les couches de cisaillement à l’extérieur. Cela explique pourquoi les oscillations ont cessé.
 
 ![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f4.jpg)
 
-3. Anti-phase synchronisation
+3 Synchronisation Opposition de phase
 
-L’anti-phase synchronisation est la phase où les oscillateurs oscillent d’une façon synchronisées, mais avec une différence de phase de 180 degrés. Elles apparaît le plus souvent entre les distances de 32 mm ~ 52.96 mm. On remarque qu'ici, les bords intérieures des flammes se déforment périodiquement.
+La synchronisation en opposition de phase est la phase où les oscillateurs oscillent d’une façon synchronisées, mais avec une différence de phase de 180 degrés. Elles apparaît le plus souvent entre les distances de 32 mm ~ 52.96 mm. On remarque qu'ici, les bords intérieures des flammes se déforment périodiquement.
 Avec ses distances, il existe assez d’espace pour former des tourbillons entre les oscillateurs mais pas suffisant pour en former plusieurs. Ainsi, dans les couches de cisaillement à l’intérieur, les tourbillons se forment mais en dessous de l’un à l’autre. Par conséquent, les flammes sont allongées et contractées alternativement.
 Contrairement à la phase synchronisation en phase, ici, la fréquence est élevée et la longueur verticale des tourbillons ont diminué. Avec des tourbillons plus petits, ils sont relâchés plus rapidement dans l’air, et ainsi la fréquence est élevée.
 
 ![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f5.jpg)
 
 
-4. Desynchronization
+4 Desynchronization
 
 Finalement, dans cette dernière phase, la synchronisation ne s’effectue pas. Les oscillations ne se ressemblent pas, la hauteur maximale de chaque flamme est inconsistante et la différence entre les phases est aussi instable. On entre dans cette phase lorsque la distance entre les deux oscillateurs est supérieure à 52.96 mm.
 Maintenant, étant donné qu’il y a assez d’espaces entre les oscillateurs pour former plusieurs tourbillons simultanément, les couches de cisaillements se forment individuellement sans influences de l’autre.
-On observe que la fréquence baisse par rapport à la phase anti-phase, et obtient une valeur similaire à celui d’une oscillateur isolée. 
+On observe que la fréquence baisse par rapport à la phase en opposition, et obtient une valeur similaire à celui d’une oscillateur isolée. 
 
 ![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2019/adv.2019.9.issue-1/1.5078674/20190115/images/medium/1.5078674.figures.online.f6.jpg)
 

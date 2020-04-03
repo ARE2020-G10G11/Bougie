@@ -172,7 +172,6 @@ Le signal analytique (ζ(t)) ainsi obtenu va avoir le signal original (𝐼(𝑡
 avec :
 
 ![alt text](https://github.com/aya-ikezawa/Garage/blob/master/image.png)
-
 On a donc le signal analytique obtenu pouvant être écrit sous la forme :
 
 𝜁(𝑡)=𝐴(𝑡)𝑒𝑖𝜑(𝑡) 

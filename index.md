@@ -143,3 +143,53 @@ D'après les expériences, ils ont déterminé 4 types d'interactions:
 
 Comme conclusion, les chercheurs expliquent que les 4 phases sont tous des résultats d'interaction entre les bougies. En effet, la synchronisation des bougies est provoquée par les tourbillons de l'air autour de la surface de la flamme.
 Ils ont aussi remarqué qu'il existait une distance limite maximale et minimale que la synchronisation puisse apparaître. De plus, un facteur aléatoire jouait sur le choix des phases, qui n'était pas le cas avec 2 bougies.
+
+## Artcicle X
+
+Titre : Experimental evidence of amplitude death and phase-flip bifurcation between in-phase and anti-phase synchronization
+
+Auteurs : Krishna Manoj, Samadhan A. Pawar et R. I. Sujith
+
+Type : Rapport scientifique
+
+Synthèse :
+
+“Amplitude death” (AD) et “Phase-flip bifurcation” (PFB) sont deux comportements observés émergeant d’une pair d’oscillateur.
+
+Le jumelage de deux oscillateur peut mener à une synchronisation mais également à une AD.
+Un synchronisation est un phénomène caractérisé par un ajustement des rythmes des oscillateur.
+Une AD correspond à la cessation des oscillations.
+La transition entre un état de synchronisation et un autre peut se faire par l’intermédiaire d’une AD ou par une PFB. 
+Lors d’une PFB les oscillateurs présente un changement soudain de leur état de synchronisation passant d’en-phase à en opposition de phase, accompagné d’un changement rapide de leur fréquence. 
+
+Dans cet article les auteurs explorent le passage d’état de synchronisation observé lorsqu’on éloigne des oscillateurs, ici des groupes de bougies, l’un de l’autre, qui se fait grâce à l’état d'AD ou à une PFB.
+
+La fréquence d’oscillation d’un oscillateur formé de 4 bougies est de 11.6 HZ avec +ou- 0.3 HZ.
+
+La synchronisation de deux oscillateurs variant en fonction de leur distance est caractérisée en calculant la différence de phase instantanée entre leur signal.
+Pour calculer la phase instantanée d’un signal on utilise l’approche du signal analytique basé sur “Hilbert transform”. Celui-ci dérive une représentation analytique d’un signal dépendant du temps en étendant le vrai signal au plan complexe.
+Le signal analytique (ζ(t)) ainsi obtenu va avoir le signal original (𝐼(𝑡)) comme sa partie réelle et son Hilbert transform correspondant (𝐼𝐻(𝑡)) comme sa partie imaginaire 𝜁(𝑡)=𝐼(𝑡)+𝑖𝐼𝐻(𝑡) 
+avec :
+
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
+
+On a donc le signal analytique obtenu pouvant être écrit sous la forme :
+
+𝜁(𝑡)=𝐴(𝑡)𝑒𝑖𝜑(𝑡) 
+
+Avec A(t) l’amplitude instantanée et 𝜑(𝑡) la phase instantanée.
+La phase relative entre deux signal est calculé par la différence des phases instantanés de ces signaux :
+
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
+
+La synchronisation des oscillations restreint la variation de la phase relative à rester lié. On observe donc des fluctuations autour d’une valeur constante de la différence de phase.
+Lorsque les oscillations se désynchronisent, la différence de phase ne reste plus liée, on appelle cela “phase drifting”.
+De plus on a :
+
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)
+
+Avec N le nombre de points d'information du signal.
+
+Enfin, pour calculer l’amplitude de corrélation entre deux signal, nous mesurons le coefficient de corrélation de formule :
+
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/Mindmap.png)

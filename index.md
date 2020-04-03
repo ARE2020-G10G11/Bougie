@@ -171,7 +171,7 @@ Pour calculer la phase instantanée d’un signal on utilise l’approche du sig
 Le signal analytique (ζ(t)) ainsi obtenu va avoir le signal original (𝐼(𝑡)) comme sa partie réelle et son Hilbert transform correspondant (𝐼𝐻(𝑡)) comme sa partie imaginaire 𝜁(𝑡)=𝐼(𝑡)+𝑖𝐼𝐻(𝑡) 
 avec :
 
-![alt text](https://github.com/aya-ikezawa/Garage/blob/master/image.png)
+![alt text](https://raw.githubusercontent.com/aya-ikezawa/Garage/master/image.png)
 On a donc le signal analytique obtenu pouvant être écrit sous la forme :
 
 𝜁(𝑡)=𝐴(𝑡)𝑒𝑖𝜑(𝑡) 

@@ -148,6 +148,26 @@ D'après les expériences, ils ont déterminé 4 types d'interactions:
 Comme conclusion, les chercheurs expliquent que les 4 phases sont tous des résultats d'interaction entre les bougies. En effet, la synchronisation des bougies est provoquée par les tourbillons de l'air autour de la surface de la flamme.
 Ils ont aussi remarqué qu'il existait une distance limite maximale et minimale que la synchronisation puisse apparaître. De plus, un facteur aléatoire jouait sur le choix des phases, qui n'était pas le cas avec 2 bougies.
 
+## Article 6
+
+**Titre** : IIT Madras : candle flame oscillators shine light on combustor stability.
+
+**Auteur** : Shubashree Dedikan
+
+**Type** : Article de presse
+
+**Synthèse** :
+
+Cet article nous apprend qu’une étude sur des bougies a permis à des chercheurs, de l’Institut IIT Madras, de comprendre le fonctionnement des chambres à combustion de fusées.
+
+Lors d’un test réalisé en 1962 par la NASA, une fusée avait explosé, en raison d’une inégale combustion du carburant dans un de ces moteurs, lors de son lancement. A l’origine de cela, l’instabilité thermoacoustique « thermo-acoustic instability » provoquée par l’interaction des différentes flammes dans la chambre de combustion associée au champ acoustique.
+
+Pour comprendre ce phénomène, les chercheurs ont étudié des groupes d’empilement de deux ou trois bougies. Placés côte à côte, deux groupes oscillent de manière synchrone et montrent une grande variété de phénomènes. Deux de ces phénomènes sont  « amplitude death », qui est une disparition totale des oscillations et « phase-flip bifurcation », qui est un changement brutal d’une synchronisation en phase à une synchronisation en déphasage.
+
+L’étude montre l’existence de ces deux états dans un seul système. Cette coexistence donne la possibilité de pouvoir éviter un état et d’en privilégier un autre en faisant varier un paramètre spécifique dans le système.
+
+Cette étude a donné des informations aux chercheurs sur la localisation des flammes dans la chambre de combustion pour que celles-ci soient stables (état « amplitude death »). Leur objectif à venir est de refaire une étude avec 4 groupes de bougie pour comprendre l’interaction de plus de deux systèmes thermo-acoustiques.
+
 ## Article 7
 
 Titre : Role of buoyancy-driven vortices in inducing different modes of coupled behaviour in candle-flame oscillators

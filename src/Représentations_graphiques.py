@@ -1,31 +1,16 @@
-import matplotlib.pyplot as plt
+%matplotlib notebook
 import numpy as np
-def plot_world(world):
-    if type(world) == list:
-        A = np.array([world])
-    else:
-        A = world
-    
-    plt.figure(figsize=(5,4)) # (30,30) = Taille de la figure
-    plt.imshow(A,cmap='cividis')
-    plt.tick_params(top=False, bottom=False, right=False, left=False, labelleft=False, labelbottom=False)
-    plt.show()
-    
-def graphique(M):
-    for i in range(24):
-        plot_world(M[i])
-
+import matplotlib.pyplot as plt
 import time
-def in_time(d,N):
+def graphique(M,cmap='cividis',):
+    ax.tick_params(top=False, bottom=False, right=False, left=False, labelleft=False, labelbottom=False)
+    ax.imshow(M,cmap=cmap)
+    fig.canvas.draw()
+fig, ax = plt.subplots(1,1)
+mondes = synchronisation(35,5,270)
+for m in mondes:
+    graphique(m)
+    time.sleep(0.5)
     
-    A = zero_0(d,N)
-    print(A, end="\r")
-    time.sleep(5)
-    plt.clf()
-    B = zero_90(d,N)
-    print(B)
-
-
-in_time(10,6)
 
 

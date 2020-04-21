@@ -15,6 +15,17 @@ def graphique(M):
     for i in range(24):
         plot_world(M[i])
 
-        
+import time
+def in_time(d,N):
+    
+    A = zero_0(d,N)
+    print(A, end="\r")
+    time.sleep(5)
+    plt.clf()
+    B = zero_90(d,N)
+    print(B)
+
+
+in_time(10,6)
 
 

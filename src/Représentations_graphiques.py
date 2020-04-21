@@ -7,7 +7,7 @@ def graphique(M,cmap='cividis',):
     ax.imshow(M,cmap=cmap)
     fig.canvas.draw()
 fig, ax = plt.subplots(1,1)
-mondes = synchronisation(35,5,270)
+mondes = synchronisation(D,N,p)
 for m in mondes:
     graphique(m)
     time.sleep(0.5)

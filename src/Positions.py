@@ -1,5 +1,7 @@
-def zero_0(d,N):
+def zero_0(D,N):
     
+    
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -28,13 +30,15 @@ def zero_0(d,N):
             for j in range(1,25):
                 list.append(0)
                             
-        monde.append(list) 
+        monde.append(list)
                 
     return monde
 
 
-def zero_90(d,N):
+def zero_90(D,N):
     
+    
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -83,9 +87,10 @@ def zero_90(d,N):
     return monde
         
 
-def zero_180(d,N):
+def zero_180(D,N):
     
     
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -143,8 +148,10 @@ def zero_180(d,N):
         
     return monde
 
-def quatre_vingts_dix_0(d,N):
+def quatre_vingts_dix_0(D,N):
     
+    
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -192,8 +199,10 @@ def quatre_vingts_dix_0(d,N):
         
     return monde
 
-def quatre_vingts_dix_90(d,N):
+def quatre_vingts_dix_90(D,N):
     
+    
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -245,8 +254,10 @@ def quatre_vingts_dix_90(d,N):
         
     return monde
 
-def quatre_vingts_dix_180(d,N):
+def quatre_vingts_dix_180(D,N):
     
+    
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -309,9 +320,10 @@ def quatre_vingts_dix_180(d,N):
         
     return monde
 
-def cent_quatre_vingts_0(d,N):
+def cent_quatre_vingts_0(D,N):
     
     
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -370,8 +382,10 @@ def cent_quatre_vingts_0(d,N):
     return monde
 
 
-def cent_quatre_vingts_90(d,N):
+def cent_quatre_vingts_90(D,N):
     
+    
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -434,8 +448,10 @@ def cent_quatre_vingts_90(d,N):
         
     return monde
 
-def cent_quatre_vingts_180(d,N):
+def cent_quatre_vingts_180(D,N):
     
+    
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
@@ -494,4 +510,3 @@ def cent_quatre_vingts_180(d,N):
             monde.append(list)
         
     return monde
-

@@ -1,18 +1,23 @@
 from math import *
 
-def monde(d,n,p):
-    #(distance - la distance entre les deux bougies)
-    #(l'intensité = nombre de bougies collées. n entre 1 et 4.)
+def monde(D,N,p):
+    #(D = distance - la distance entre les deux bougies, D<=55mm,D>=20mm)
+    #(N = l'intensité = nombre de bougies collées. N de 3 à 6)
+    #(p = position du départ)
     
     
+    d = D/2.5
     #monde : list[list[int]]
     monde = []
     #c : int
     c = 0
     #e : int
     e = 0
+    #n : int
+    n = N-2
     #f : int
     f = n-1
+
             
     
     for i in range(1,25):
@@ -118,6 +123,7 @@ def monde(d,n,p):
        
                     
     return monde
+
 
 
             

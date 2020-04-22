@@ -510,3 +510,32 @@ def cent_quatre_vingts_180(D,N):
             monde.append(list)
         
     return monde
+
+
+def etats(D,N,c1,c2):
+    
+    if c1 == 0:
+        if c2 == 0:
+            return zero_0(D,N)
+        elif c2 == 90 or c2 == 270:
+            return zero_90(D,N)
+        elif c2 == 180:
+            return zero_180(D,N)
+        
+    elif c1 == 90 or c1 == 270:
+        if c2 == 0:
+            return quatre_vingts_dix_0(D,N)
+        elif c2 == 90 or c2 == 270:
+            return quatre_vingts_dix_90(D,N)
+        elif c2 == 180:
+            return quatre_vingts_dix_180(D,N)
+           
+    else:
+        if c2 == 0:
+            return cent_quatre_vingts_0(D,N)
+        elif c2 == 90 or c2 == 270:
+            return cent_quatre_vingts_90(D,N)
+        elif c2 == 180:
+            return cent_quatre_vingts_180(D,N)
+    
+    

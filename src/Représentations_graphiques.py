@@ -10,7 +10,7 @@ fig, ax = plt.subplots(1,1)
 mondes = synchronisation(D,N,p)
 for m in mondes:
     graphique(m)
-    time.sleep(0.5)
+    time.sleep(0.025)
     
 
 

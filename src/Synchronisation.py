@@ -5,7 +5,7 @@ def en_phase(D,N,position1):
     c = position1
     list = []
     
-    for i in range(10):
+    for i in range(20):
         
         if c == 0:
             list.append(zero_0(D,N))
@@ -27,6 +27,7 @@ def en_phase(D,N,position1):
         
         
 def opposition_de_phase(D,N,position1):
+    
     
     c = position1
     list = []
@@ -50,15 +51,16 @@ def opposition_de_phase(D,N,position1):
             list.append(quatre_vingts_dix_90(D,N))
             c = 0
     return list
+
         
         
 def non_synchronisation(D,N,position1,position2):
-
+    
     c1 = position1
     c2 = position2
     list = []
     
-    for i in range(10):
+    for i in range(30):
         if c1 == 0:
             if c2 == 0:
                 list.append(zero_0(D,N))
@@ -111,8 +113,7 @@ def non_synchronisation(D,N,position1,position2):
         
     return list
             
-                
-    
+                  
 def synchronisation(D,N,p):
     
     d = D/2.5
@@ -122,7 +123,7 @@ def synchronisation(D,N,p):
     b = 0
     mondes = []
     
-    if d <= 7.5:
+    if d <= 12:
         mondes.append(etats(D,N,position1,position2))
         while (position1 != position2) and (a<10):
             if (a%1==0):
@@ -140,7 +141,7 @@ def synchronisation(D,N,p):
             mondes.append(etats(D,N,position1,position2))
         mondes = mondes + en_phase(D,N,position1)
         
-    elif d<= 12.5:
+    elif d<= 20:
         
         mondes.append(etats(D,N,position1,position2))
         while (abs(position1-position2) != 180) and (a<30):

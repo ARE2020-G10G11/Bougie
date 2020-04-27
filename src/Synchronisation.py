@@ -5,22 +5,18 @@ def en_phase(D,N,position1):
     c = position1
     list = []
     
-    for i in range(20):
+    for i in range(40):
         
-        if c == 0:
-            list.append(zero_0(D,N))
+        if c == 0:           
             list.append(zero_0(D,N))
             c = c + 90
         elif c == 90:
             list.append(quatre_vingts_dix_90(D,N))
-            list.append(quatre_vingts_dix_90(D,N))
             c = c + 90
         elif c == 180:
             list.append(cent_quatre_vingts_180(D,N))
-            list.append(cent_quatre_vingts_180(D,N))
             c = c + 90
         else:
-            list.append(quatre_vingts_dix_90(D,N))
             list.append(quatre_vingts_dix_90(D,N))
             c = 0
     return list
@@ -32,44 +28,37 @@ def opposition_de_phase(D,N,position1):
     c = position1
     list = []
     
-    for i in range(20):
+    for i in range(40):
         
         if c == 0:
-            list.append(zero_180(D,N))
             list.append(zero_180(D,N))
             c = c + 90
         elif c == 90:
             list.append(quatre_vingts_dix_90(D,N))
-            list.append(quatre_vingts_dix_90(D,N))
             c = c + 90
         elif c == 180:
             list.append(cent_quatre_vingts_0(D,N))
-            list.append(cent_quatre_vingts_0(D,N))
             c = c + 90
         else:
-            list.append(quatre_vingts_dix_90(D,N))
             list.append(quatre_vingts_dix_90(D,N))
             c = 0
     return list
 
         
-        
 def non_synchronisation(D,N,position1,position2):
+    
     
     c1 = position1
     c2 = position2
     list = []
     
-    for i in range(30):
+    for i in range(60):
         if c1 == 0:
             if c2 == 0:
                 list.append(zero_0(D,N))
-                list.append(zero_0(D,N))
             elif c2 == 90 or c2 == 270:
                 list.append(zero_90(D,N))
-                list.append(zero_90(D,N))
             elif c2 == 180:
-                list.append(zero_180(D,N))
                 list.append(zero_180(D,N))
             if c2 == 270:
                 c2 = 0
@@ -80,12 +69,9 @@ def non_synchronisation(D,N,position1,position2):
         elif c1 == 90 or c1 == 270:
             if c2 == 0:
                 list.append(quatre_vingts_dix_0(D,N))
-                list.append(quatre_vingts_dix_0(D,N))
             elif c2 == 90 or c2 == 270:
                 list.append(quatre_vingts_dix_90(D,N))
-                list.append(quatre_vingts_dix_90(D,N))
             elif c2 == 180:
-                list.append(quatre_vingts_dix_180(D,N))
                 list.append(quatre_vingts_dix_180(D,N))
             if c2 == 270:
                 c2 = 0
@@ -98,12 +84,9 @@ def non_synchronisation(D,N,position1,position2):
         else:
             if c2 == 0:
                 list.append(cent_quatre_vingts_0(D,N))
-                list.append(cent_quatre_vingts_0(D,N))
             elif c2 == 90 or c2 == 270:
                 list.append(cent_quatre_vingts_90(D,N))
-                list.append(cent_quatre_vingts_90(D,N))
             elif c2 == 180:
-                list.append(cent_quatre_vingts_180(D,N))
                 list.append(cent_quatre_vingts_180(D,N))
             if c2 == 270:
                 c2 = 0
@@ -113,6 +96,7 @@ def non_synchronisation(D,N,position1,position2):
         
     return list
             
+           
                   
 def synchronisation(D,N,p):
     

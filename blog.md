@@ -18,7 +18,13 @@ Nous avons commencé par élaborer un plan d'implémentation de notre projet afi
 
 ## Semaine 4 (semaine du 6/04)
 
-Cette semaine, nous avons réalisé notre seconde étape de programmation qui consiste à représenter le mouvement de deux flammes d'oscillateurs se synchronisant en phase, en opposition de phase ou sans synchronisation, en fonction du temps sans prendre, pour l'instant, en compte certains paramètres, tel que la fréquence et l'amplitude d'oscillation des flammes.
+Cette semaine, nous avons débuté la réalisation de notre seconde étape de programmation qui consistait à représenter le mouvement de deux flammes d'oscillateurs se synchronisant en phase, en opposition de phase ou sans synchronisation, en fonction du temps sans prendre, pour l'instant, en compte certains paramètres, tel que la fréquence d'oscillation des flammes.
 Nous avons ainsi commencé à modéliser le comportement ondulatoire des bougies.
 
 ## Semaine 5 (semaine du 13/04)
+
+Durant cette semaine nous avons finaliser la réalisation de notre seconde étape de programmation ayant eu entre autre un problème la semaine passée sur l'affichage de nos graphique. Nous avons pour cela demandé l'aide de nos responsables de groupe. Nous avons également rédiger les programmes correspondant aux différentes synchronisations.
+
+## Semaine 6 (semaine du 20/04)
+
+Nous avons ensuite rendre notre modélisation plus fidèle à la réalité en prenant compte du changement de fréquence que l'on observe en fonction de l'intensité de nos oscillateurs et également en fonction du type de synchronisation. Seulement nous avons constaté que ce changement de fréquence était très minime et ainsi négligeable par rapport à une fréquence moyenne constante. 
